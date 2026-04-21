@@ -39,7 +39,6 @@ Tech: React JS
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrob22&show_icons=true&theme=tokyonight)
 
